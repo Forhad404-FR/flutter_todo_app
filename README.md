@@ -40,6 +40,11 @@ The **slidable feature** enhances user experience by allowing quick actions with
 ---
 
 ## 📸 Preview 
+<img width="354" height="779" alt="image" src="https://github.com/user-attachments/assets/81a74e87-3276-4e0e-bfc0-3f1c7f55c3f6" />
+<img width="354" height="785" alt="image" src="https://github.com/user-attachments/assets/1d4eac72-51e4-4ff8-889d-558365bf8650" />
+<img width="358" height="780" alt="image" src="https://github.com/user-attachments/assets/89f6577c-1b3f-43b4-b115-477564ddff8e" />
+<img width="351" height="779" alt="image" src="https://github.com/user-attachments/assets/a568b55a-7b69-4d9d-afe7-756598f28596" />
+<img width="346" height="777" alt="image" src="https://github.com/user-attachments/assets/3943acff-8637-4b6f-b71c-9cd095ff039a" />
 
 
 
