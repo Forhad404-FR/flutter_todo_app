@@ -1,17 +1,72 @@
-# todo
+# 📌 Flutter To-Do App
 
-A new Flutter project.
+> A clean, minimal, and smooth task management app built using Flutter & Dart.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Add and manage daily tasks  
+- 👉 **Slidable actions** (Edit / Delete)  
+- ⚡ Fast and responsive UI  
+- 🎯 Simple and user-friendly design  
+- 📱 Fully built with Flutter & Dart  
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Concept
+
+This project focuses on **productivity and simplicity**.  
+The goal was to build a lightweight task manager that feels smooth and intuitive.
+
+The **slidable feature** enhances user experience by allowing quick actions without cluttering the UI.
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter  
+- Dart  
+
+---
+
+## 🎯 Key Highlights
+
+- 📱 Clean UI design  
+- 🧠 Structured code logic  
+- ⚡ Smooth user interaction  
+- 🔥 Beginner-friendly but scalable foundation  
+
+---
+
+## 📸 Preview 
+
+
+
+
+
+---
+
+## 🔗 Repository Link
+
+👉 https://github.com/Forhad404-FR/flutter_todo_app
+
+---
+
+## 💡 Future Improvements
+
+- ⏰ Task reminders  
+- ☁️ Cloud sync  
+- 🌙 Dark mode  
+- 📊 Task analytics  
+
+---
+
+## 🧑‍💻 Developer
+
+**Forhad Hossen**  
+CSE Student | Flutter Developer | Backend Learner  
+
+---
+
+⭐ If you like this project, give it a star!
